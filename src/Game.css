@@ -116,3 +116,9 @@ img {
   -o-user-drag: none;
   user-drag: none;
 }
+
+.img {
+  height: 100px;
+  width: 100px;
+  
+}
